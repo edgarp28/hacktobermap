@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+    {
+    name: "Edgar",
+    location: "New York, USA",
+    latitude:  44.979762,
+    longitude: -74.953006
+  },
 ];
